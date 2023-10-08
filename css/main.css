@@ -1,0 +1,6 @@
+@media (width >= 768px) {
+  .my-fix {
+    width: 480px;
+    padding: 0;
+  }
+}
